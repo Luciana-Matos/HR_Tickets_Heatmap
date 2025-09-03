@@ -4,7 +4,7 @@
 This project is inspired by a challenge from the **Workout Wednesday (WOW)** community, created by **Daniel Marsh-Patrick**.  
 The original project demonstrated how to build a circular heatmap in Power BI using the **Deneb custom visual**.  
 
-**Deneb** enables users to leverage **Vega and **Vega-Lite** visualization grammars directly within Power BI, unlocking highly customizable visualizations beyond the standard options.  
+Deneb enables users to leverage Vega and Vega-Lite visualization grammars directly within Power BI, unlocking highly customizable visualizations beyond the standard options.  
 
 Building on this foundation, I adapted the original challenge to reflect a Human Resources use case. Instead of weather data, the visualization now tracks HR ticket volumes across years, months, locations, and topics.  
 
