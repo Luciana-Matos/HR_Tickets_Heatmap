@@ -10,6 +10,8 @@ Building on this foundation, I adapted the original challenge to reflect a Human
 
 This tool highlights recurring patterns enabling proactive planning, strategic resource allocation, and deeper investigation into demand drivers.
 
+<img width="696" height="379" alt="Screenshot 2025-09-03 134341" src="https://github.com/user-attachments/assets/5bc34693-d66e-49f4-b036-d0736f64baf1" />
+
 ---
 
 ## 📂 Repository Contents
